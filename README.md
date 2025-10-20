@@ -10,8 +10,7 @@ MyUni - веб-платформа для абитуриентов, котора�
 * [Процесс Pull Request](docs/pull-request-guide.md) - ревью и слияние
 
 ### Рабочая документация [To be rebuilt]
-* [Анкета заказчика](content/customer-questionnaire.md)
-* [Вопросы для интервью](content/interview-questions.md)
+* [Анкета заказчика](content/questionnaire.md)
 * [Протокол встречи](content/meeting-minutes.md)
 * [План коммуникаций](content/communication-plan.md)
 
